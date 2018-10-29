@@ -12,4 +12,9 @@ public class Test4 {
 		
 	}
 	
+	public void print() {
+		
+		
+		System.out.println("helio");
+	}
 }
