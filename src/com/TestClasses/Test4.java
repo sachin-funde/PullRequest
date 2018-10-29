@@ -18,5 +18,6 @@ public class Test4 {
 		System.out.println("helio");
 		System.out.println("5");
 		System.out.println("hdh");
+		System.out.println("6");
 	}
 }
