@@ -6,6 +6,7 @@ public class bb {
 		
 		
 		System.out.println("hi");
+		System.out.println("15");
 	}
 
 	
